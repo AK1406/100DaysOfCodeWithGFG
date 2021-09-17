@@ -14,6 +14,9 @@ The final sorted array would be -
 1, 2, 3, 4, 6, 7, 8, 9, 10
 The 5th element of this array is 6.
 
+Expected Time Complexity: O(Log(N) + Log(M))
+Expected Auxiliary Space: O(Log (N))
+
 */
 
 
