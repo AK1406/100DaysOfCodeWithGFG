@@ -10,6 +10,11 @@ Output:
 Explanation:
 0s 1s and 2s are segregated 
 into ascending order.
+
+Expected Time Complexity: O(N)
+Expected Auxiliary Space: O(1)
+
+
 */
 
 
