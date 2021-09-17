@@ -1,4 +1,8 @@
-/*You are given an array arr[] of n integers and q queries in an array queries[] of length 2*q containing l, r pair for all q queries. 
+/*
+
+Sum of Query II
+
+You are given an array arr[] of n integers and q queries in an array queries[] of length 2*q containing l, r pair for all q queries. 
 You need to compute the following sum over q queries.
 
 Array is 1-Indexed.
